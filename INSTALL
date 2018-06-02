@@ -1,0 +1,9 @@
+Building MinersHeavenCoin
+
+See doc/readme-qt.rst for instructions on building MinersHeavenCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MinersHeavenCoin.
+
+See doc/build-*.txt for instructions on building minersheavencoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MinersHeavenCoin.
